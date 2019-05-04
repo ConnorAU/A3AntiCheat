@@ -7,6 +7,8 @@ I have removed all references to that server to keep them a little safer because
 
 This is not a plug-and-play anticheat. My intention in releasing it is so anyone can read through what I consider to be a very competent anticheat, learn something from it and apply that knowledge to their own custom anticheat.
 
+It is important to note any script based anticheat will never be able to replace battleye. This is a second layer of defense for catching those who slip through the cracks.
+
 I am walking away from arma so I can properly focus on getting my life together, so this is kind of a farewell gift I guess. Considering how effective it has been, I'd say it is easily the best work I've done in arma.
 
 # Detections
